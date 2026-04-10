@@ -203,30 +203,11 @@ footer {
     padding: 2rem;
     border-top: 1px solid #1f2937;
     font-family: 'Share Tech Mono', monospace;
-    color: #64748b;
+    color: #9fc1f0;
 }
 
 /* Animations */
 @keyframes blink {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
-}
-@media (max-width: 768px) {
-    .nav-links {
-        display: none; /* Cache les liens pour un futur menu burger */
-    }
-    
-    .hero-content h1 {
-        font-size: 2rem;
-    }
-
-    .cards-container {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .card, .team-card {
-        width: 100%;
-        max-width: 350px;
-    }
 }
