@@ -22,11 +22,18 @@ Le site se compose de 4 pages :
 ## 📁 Structure du projet
 cybersec_agency/
 │
+
 ├── index.html # Page d'accueil
+
 ├── equipes.html # Page des équipes
+
 ├── contact.html # Page de contact
+
 ├── services.htlm #Page des services
+
 ├── style.css #Feuille de style principal
+
 ├── script.js # Page javascript
+
 └── README.md # Documentation du projet
 
