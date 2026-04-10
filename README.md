@@ -37,3 +37,6 @@ cybersec_agency/
 
 └── README.md # Documentation du projet
 
+## Améliorations possibles
+- Ajouter des témoignages clients
+- Rendre le formulaire fonctionnel avec PHP ou un service externe
