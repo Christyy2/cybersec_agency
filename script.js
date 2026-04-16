@@ -1,8 +1,8 @@
 // Effet "Machine à écrire" pour le titre de l'accueil
 const textArray = ["données.", "réseaux.", "serveurs.", "applications web."];
-const typingDelay = 100;
+const typingDelay = 200;
 const erasingDelay = 50;
-const newTextDelay = 2000; // Délai entre chaque mot
+const newTextDelay = 1000; // Délai entre chaque mot
 let textArrayIndex = 0;
 let charIndex = 0;
 
